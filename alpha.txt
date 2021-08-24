@@ -1,1 +1,3 @@
 First observed in Kent.
+The important mutation is N501Y.
+
